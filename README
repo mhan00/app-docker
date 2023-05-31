@@ -6,13 +6,13 @@ To start with node server and open the connection to mongodb on docker
 
 First run the command:
 
-```
+```python
 docker-compose mongo.yaml
 
 ```
 
 Then start the node serevr
 
-```
+```python
 node server.js
 ```
